@@ -8,5 +8,6 @@ import { Component } from '@angular/core';
   styleUrl: './sample.component.css'
 })
 export class SampleComponent {
-
+  fname="Hanu";
+  lname="Morla"
 }
